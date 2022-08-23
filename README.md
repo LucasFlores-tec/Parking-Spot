@@ -6,7 +6,7 @@ The project for parking spot managment control, is based on the <a href="https:/
 ## Tools
 JAVA | Spring Boot | Spring Data | OpenAPI 3.0 | Swagger-UI | MySQL Workbench
 
-## How to download and test
+## How to test the project
 1. Download the .zip package of the project and import it into your IDE.
 2. Inside the project, under src/main/resources, the application.properties file has to be configured according to the local inviroment:
 * spring.datasource.url=jdbc:mysql://localhost:3306/parking_control_db (this line present the default configuration in case you are using MySQL Workbench)
