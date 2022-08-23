@@ -14,4 +14,6 @@ JAVA | Spring Boot | Spring Data | OpenAPI 3.0 | Swagger-UI | MySQL Workbench
 * spring.datasource.password=local-instance-password (in here you can use your MySQL local instance password)
 * springdoc.api-docs.path=/api-docs (the path to access the documentation created by using OpenAPI, which will be: http://localhost:8080<strong>/api-docs</strong>)
 3. Build the project.
-4. Access the endpoints at http://localhost:8080/swagger-ui.html
+4. Access the endpoints at http://localhost:8080/swagger-ui.html and you should see something like this:
+
+![swagger](https://user-images.githubusercontent.com/80061839/186162130-31d2af30-086e-4e7d-b33b-ff4188c59221.PNG)
